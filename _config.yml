@@ -2,11 +2,16 @@
 #
 
 # Site settings
-title: Spectral
+title: GeoSpatial Experts
 description: |
-  GeoSpatial Experts  
-  site template freebie  
-  [Try GeoJot+](https://store.geospatialexperts.com/register)
+  From field data colleciton 
+  ... to final reports 
+  
+  Collect photographic evidence of conditions or 
+  assets in the field. Take a picture & fill out 
+  a form on a mobile device - automatically transfer 
+  data to the office to create reports, photo maps, 
+  or push to your database.
 owner: GeoSpatial Experts # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: Info@GeoSpatialExperts.com
